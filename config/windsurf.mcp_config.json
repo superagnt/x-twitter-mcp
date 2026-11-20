@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "superagnt": {
+      "type": "streamable-http",
+      "serverUrl": "https://mcp.superagnt.com/mcp"
+    }
+  }
+}

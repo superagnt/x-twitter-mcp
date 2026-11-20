@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "superagnt": {
+      "httpUrl": "https://mcp.superagnt.com/mcp"
+    }
+  }
+}
